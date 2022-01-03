@@ -4,7 +4,7 @@ Every day we are all encouraged to work in siloes, separated from each other acr
 
 Gov Zero Aotearoa is a grassroots **civil society initiative** in New Zealand, created to bring people together who want to help people and solve problems through open collaboration. We intentionally step outside of our professional boxes to bring our skills, hopes, values and humanity together, so we can solve real world problems in a more open way. 
 
-**Anyone can join** and contribute, and **everyone is welcome**. We are purposefully working together as a distributed collective of people from all walks of life, supported to cluster around self-directed projects of mutual interest and shared goals. We've been inspired by the [Gov Zero efforts in Taiwan(https://g0v.tw/intl/en/manifesto/en/)].
+**Anyone can join** and contribute, and **everyone is welcome**. We are purposefully working together as a distributed collective of people from all walks of life, supported to cluster around self-directed projects of mutual interest and shared goals. We've been inspired by the [Gov Zero efforts in Taiwan](https://g0v.tw/intl/en/manifesto/en/).
 
 We are currently in the earliest stage of establishment, and intend to take the first couple of months in 2022 to co-create our approach for Aotearoa New Zealand, to be suitable for our local context and in line with mātauranga Māori. Please join us to help shape Gov Zero Aotearoa :)
 
