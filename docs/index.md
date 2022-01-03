@@ -29,7 +29,7 @@ Anyone can propose or add a project. We will add links and information in the co
 
 # About us
 
-Gov Zero Aotearoa was started by a diverse group of individuals from across Aotearoa New Zealand, with every intent to establish a self-governing, equitable and shared purpose community of doers, that get on with solving problems. The initial crew were Jo Allum, Pia Andrews, Jonah Duckles, Robert O'Brien, Arama Maitara, Hamish Fraser, Tom Barraclough, Ben Tairea, Brenda Wallace, Siobhan McCarthy and more. 
+Gov Zero Aotearoa was started by a diverse group of individuals from across Aotearoa New Zealand, with every intent to establish a self-governing, equitable and shared purpose community of doers, that get on with solving problems. The initial crew were Jo Allum, Pia Andrews, Jonah Duckles, Robert O'Brien, Arama Maitara, Hamish Fraser, Tom Barraclough, Ben Tairea, Brenda Wallace, Siobhan McCarthy, Regan Gilmour and more. 
 
 We are also going to have an Advisory Circle that all projects can go to for advice, and to help ensure our Community development project stays true. More on that soon!
 
